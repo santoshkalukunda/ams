@@ -1,0 +1,108 @@
+form{
+	width: 100%;
+	margin: 5px;
+	text-align: left;
+	padding: 20px;
+	border: : 1px solid #bbbbbb;
+	border-radius: 5px;
+}
+.input-group{
+	margin: 5px 0px 5px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+
+}
+.input-group input{
+	height: 20px;
+	width: 250px ;
+	padding: 5px 5px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5f9ea0;
+	border: none;
+	border-radius: 5px;
+}
+body{
+	font-size: 19px;
+	background-color: #91d0f1;
+
+}
+table{
+	width: auto;
+	margin: 30px;
+	border-collapse:  collapse;
+	text-align: left;
+}
+tr{
+	border-bottom: 1px solid #cbcbcb;
+}
+th, td{
+	border: none;
+	height: 30px;
+	padding: 2px;
+
+}
+tr:hover{
+	background: #f5f5f5;
+}
+th{
+	background: #f5f5f5;
+}
+.msg{
+	margin: 10px;
+	padding: 5px;
+	color: #3c763d;
+	border: none;
+	width: 50%;
+	
+}
+.del_btn{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	background: #800000;
+	border-radius: 3px;
+
+}
+.edit_btn{
+	text-decoration: none;
+	padding: 2px 5px;
+	background: #2e8b57;
+	color: white;
+	border-radius: 3px;
+}
+
+.input-group select{
+	height: 30px;
+	width: 509px ;
+	padding: 5px 5px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.ps{
+	text-decoration: none;
+	padding: 2px 5px;
+	background: #2e8b57;
+	color: white;
+	border-radius: 6px;
+	height: 50px;
+}
+.ab{
+	text-decoration: none;
+	padding: 2px 5px;
+	color: white;
+	background: #800000;
+	border-radius: 6px;
+	height: 50px;
+}
